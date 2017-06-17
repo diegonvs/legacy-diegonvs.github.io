@@ -1,3 +1,6 @@
+FROM ruby:2.3.1
+RUN apt-get update -qq && apt-get install -y build-essential libpq-dev nodejs
+
 RUN gem install jekyll -v 3.1.6
 RUN gem install bundler
 
@@ -8,7 +11,7 @@ RUN gem install jekyll-paginate
 RUN gem install jekyll-seo-tag
 RUN gem install jekyll-gist
 RUN gem install json -v 1.8.3
-
+RUN gem install i18n -v 0.7.0
 RUN gem install minitest -v 5.9.0
 RUN gem install colorator -v 0.1
 RUN gem install ffi -v 1.9.10
@@ -35,6 +38,6 @@ ADD ./ /app
 
 WORKDIR /app
 
-EXPOSE 4000
+EXPOSE 4001
 
 CMD bundle exec jekyll serve
