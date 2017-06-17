@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  #Author's home: "http://deanattali.com"
+#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -56,8 +56,8 @@ author:
   snapchat: yourname  # eg. daattali
   instagram: diegonvs97 # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: diegonvs   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  spotify: diegonvs97   # eg. daattali
+  telephone: +5581998138948   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
