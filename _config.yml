@@ -48,14 +48,14 @@ author:
   facebook: diegonvs97  # eg. daattali
   github: diegonvs    # eg. daattali
   twitter: diegonvs_   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+#  reddit: yourname    # eg. daattali
+#  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: diegonvs97  # eg. daattali
-  xing: yourname      # eg. daattali
+#  xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
+#  snapchat: yourname  # eg. daattali
   instagram: diegonvs97 # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
+#  youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: diegonvs97   # eg. daattali
   telephone: +5581998138948   # eg. +14159998888
 
@@ -206,6 +206,7 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jemoji
 
 
 
