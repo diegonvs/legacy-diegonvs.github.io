@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+title: First post! 
+tags: [random, misc, primeiro]
 ---
 
-Consegui fazer essa cacilda pegar!
+Well, this is my first post on my personal blog and here i expect make posts about my life,carreer and some miscs.
+Enjoy! :blue_heart:
