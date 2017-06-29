@@ -23,7 +23,7 @@ description: A human being human.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://about.me/diegonascimento"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -207,6 +207,3 @@ prose:
 gems:
   - jekyll-paginate
   - jemoji
-
-
-
